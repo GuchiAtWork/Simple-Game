@@ -1,6 +1,6 @@
 What is this?
 
-This is a 2D game where its sole objective is to mine all the "Unobtanium" minerals
+This is a 2D game made in Java where its sole objective is to mine all the "Unobtanium" minerals
 scattered within the world. 
 The only units capable of mining resources are the "engineers" and the materials 
 they accumulate can be used to make different units. 
